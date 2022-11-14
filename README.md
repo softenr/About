@@ -1,17 +1,17 @@
-<h1 align="center">Hi 👋, I'm Abdullah Al Mamun</h1>
+<h1 align="center">Hi 👋, I amm Abdullah Al Mamun</h1>
 <h3 align="center">A am full stack web developer usning Bootstrap, Laravel, Vue framwork.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=softdevmamun&label=Profile%20views&color=0e75b6&style=flat" alt="softdevmamun" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=softdevmamun" alt="softdevmamun" /></a> </p>
 
-- 🔭 I’m currently working on [eLearning Web Development](elearn.nictc.org)
+- 🔭 I’m currently working on [eLearning Web Development (www.elearn.nictc.org)]
 
 - 🌱 I’m currently learning **Laravel & Vue framwork**
 
-- 👨‍💻 All of my projects are available at [www.nictc.org/projects](nictc.org/projects)
+- 👨‍💻 All of my projects are available at [www.nictc.org/projects]
 
-- 📝 I regularly write articles on [www.elearn.nictc.org](elearn.nictc.org)
+- 📝 I regularly write articles on [www.elearn.nictc.org]
 
 - 💬 Ask me about **Laravel & Vue**
 
