@@ -13,7 +13,7 @@
 
 - 📝 I regularly write articles on [www.elearn.nictc.org]
 
-- 💬 Ask me about **Laravel & Vue**
+- 💬 Ask me about **PHP, Java, JavaScript, Laravel & Vue**
 
 - 📫 How to reach me **devweb.mamun@gmail.com**
 
