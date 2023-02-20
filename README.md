@@ -9,11 +9,11 @@
 
 - 🌱 I’m currently learning **Laravel & Vue framwork**
 
-- 👨‍💻 All of my projects are available at [www.nictc.org/projects]
+- 👨‍💻 All of my projects are available at [www.portfolio.nictc.org]
 
 - 📝 I regularly write articles on [www.elearn.nictc.org]
 
-- 💬 Ask me about **PHP, Java, JavaScript, Laravel & Vue**
+- 💬 Ask me about **PHP, MySQL, Java, JavaScript, Ajax, Laravel & Vue**
 
 - 📫 How to reach me **devweb.mamun@gmail.com**
 
